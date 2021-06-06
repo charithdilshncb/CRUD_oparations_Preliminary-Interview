@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="mitra_task">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/mitra_task.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
